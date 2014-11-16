@@ -1,6 +1,4 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
-
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs) --> [email me!](http://www.google.com/recaptcha/mailhide/d?k=01KgESkAshOFOWRMyGkcdCEQ==&c=Cmjc2-OpRImyczz0qZ2fupPU5hPh_xmcRLiawYbBE8s=)
+A big thank you to Clare Corthell for documenting her educational journey, which has inspired people like me to follow on this enormously exciting and educational journey....
 
 ## The Open-Source Data Science Masters
 
@@ -232,7 +230,3 @@ Non-Open-Source books, courses, and resources are noted with ```$```.
 ## Contribute
 
 Please Contribute Your Ideas -- **this is Open Source!**
-
-Please **showcase your own specialization & transcript** by submitting a markdown file pull request in the ```/transcripts``` directory with your name! eg [```clare-corthell-2014.md```](http://bit.ly/U6yVMU)
-
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
